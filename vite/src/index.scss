@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-weight: 400;
+  font-size: 14px;
+  overflow: hidden;
+}
+
+// @font-face {
+//   font-family: 'cubic';
+//   src: url('./assets/fonts/cubic.ttf');
+// }
+
+// @font-face {
+//   font-family: 'pixel';
+//   src: url('./assets/fonts/pixel.ttf');
+// }
+
